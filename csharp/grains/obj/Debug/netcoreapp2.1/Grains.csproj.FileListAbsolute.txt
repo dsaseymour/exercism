@@ -1,0 +1,4 @@
+C:\Users\danny\Exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.csprojAssemblyReference.cache
+C:\Users\danny\Exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.csproj.CoreCompileInputs.cache
+C:\Users\danny\Exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.AssemblyInfoInputs.cache
+C:\Users\danny\Exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.AssemblyInfo.cs
